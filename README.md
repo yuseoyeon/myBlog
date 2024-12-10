@@ -1,2 +1,1 @@
-# myBlog
-react toy project
+나만의 블로그 사이트 
